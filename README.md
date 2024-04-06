@@ -1,13 +1,13 @@
 # Business-Analysis-Service
 
+## Vendas, reparo e manutenção em SmartPhone
 
-Empresa que atua na área de analises de empreendimentos em empresas.
+Nosso time dedicado está sempre pronto para oferecer os melhores serviços, desde consertos com peças originais até a venda de dispositivos novos e seminovos.
 
-Analises de dados, Vendas, Lucro, Prejuízo e Leads
-Python, CSS e Banco de Dados
-
-Carlos Eduardo 
-Vinicius Matheus
-Vitor Cicero
-
+- Carlos Eduardo
+  - **RA: 2222106602**
+- Vinicius Matheus
+  - **RA: 2222100403**
+- Vitor Cicero
+  - **RA: 2222104461**
 
