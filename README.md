@@ -1,13 +1,25 @@
 # Business-Analysis-Service
 
-## Vendas, reparo e manutenção em SmartPhone
+## Ramo:
+Aparelhos Eletrônicos.
 
-Nosso time dedicado está sempre pronto para oferecer os melhores serviços, desde consertos com peças originais até a venda de dispositivos novos e seminovos.
+## Serviços:
+Vendas de Smartphones.
 
+Assistência e Reparos em Smartphones.
+
+## Tecnologias:
+- Notebooks.
+- Banco de Dados.
+- Software para Gestão de Vendas.
+- Redes Sociais.
+- Ferramentas de Comunicação.
+- Ferramentas para Reparos em Smartphone.
+
+## Equipe:
 - Carlos Eduardo
   - **RA: 2222106602**
 - Vinicius Matheus
   - **RA: 2222100403**
 - Vitor Cicero
   - **RA: 2222104461**
-
